@@ -1,0 +1,327 @@
+
+.home{
+	text-align: center;
+}
+.home .div-home .b{
+	color: crimson;
+}
+.about{
+	margin: 0px;
+
+}
+.about .div-left .img{
+border-radius: 20px;
+}
+.about .div-left{
+	margin-left: 240px;
+
+}
+.about .div-left1{
+	margin-left: 250px;
+	color: blue;
+	
+}
+.about .div-left1 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-left1 .achet:hover{
+	background: none;
+
+
+}
+
+.about .div-right1  {
+	color: blue;
+	}
+.about .div-right .img{
+border-radius: 20px;
+}
+	.about .div-right1 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-right1 .achet:hover{
+	background: none;
+}
+.about .div-21  {
+	color: blue;
+	}
+.about .div-2 .img{
+border-radius: 20px;
+}
+	.about .div-21 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-21 .achet:hover{
+	background: none;
+}
+.about .div-2{
+	margin-left: 70px;
+}
+.about .div-21{
+	margin-left: 70px;
+}
+.about .div-31  {
+	color: blue;
+	}
+.about .div-3 .img{
+border-radius: 20px;
+}
+	.about .div-31 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-31 .achet:hover{
+	background: none;
+}
+.about .div-3{
+	margin-left: -165px;
+}
+.about .div-31{
+	margin-left: -165px;
+}
+.about .div-41  {
+	color: blue;
+	}
+.about .div-4 .img{
+border-radius: 20px;
+}
+	.about .div-41 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-41 .achet:hover{
+	background: none;
+}
+.about .div-4{
+	margin-left: -160px;
+}
+.about .div-41{
+	margin-left: -160px;
+}
+.about .div-51  {
+	color: blue;
+	}
+.about .div-5 .img{
+border-radius: 20px;
+}
+	.about .div-51 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-51 .achet:hover{
+	background: none;
+}
+.about .div-5{
+	margin-left: 70px;
+}
+.about .div-51{
+	margin-left: 70px;
+}
+.about .div-61  {
+	color: blue;
+	}
+.about .div-6 .img{
+border-radius: 20px;
+}
+	.about .div-61 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-61 .achet:hover{
+	background: none;
+}
+.about .div-6{
+	margin-left: -165px;
+}
+.about .div-61{
+	margin-left: -165px;
+}
+.about .div-71  {
+	color: blue;
+	}
+.about .div-7 .img{
+border-radius: 30px;
+}
+	.about .div-71 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-71 .achet:hover{
+	background: none;
+}
+.about .div-7{
+	margin-left: -160px;
+}
+.about .div-71{
+	margin-left: -160px;
+}
+.about .div-81  {
+	color: blue;
+	}
+.about .div-8 .img{
+border-radius: 20px;
+}
+	.about .div-81 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-81 .achet:hover{
+	background: none;
+}
+.about .div-8{
+	margin-left: 70px;
+}
+.about .div-81{
+	margin-left: 70px;
+}
+.about .div-91  {
+	color: blue;
+	}
+.about .div-9 .img{
+border-radius: 20px;
+}
+	.about .div-91 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-91 .achet:hover{
+	background: none;
+}
+.about .div-9{
+	margin-left: -165px;
+}
+.about .div-91{
+	margin-left: -165px;
+}
+.about .div-101  {
+	color: blue;
+	}
+.about .div-10 .img{
+border-radius: 20px;
+}
+	.about .div-101 .achet{
+	display: inline-block;
+	background-color: blue;
+	font-size: 20px;
+	font-weight: 60;
+	color: red;
+	border: 2px solid blue;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.about .div-101 .achet:hover{
+	background: none;
+}
+.about .div-10{
+	margin-left: -160px;
+}
+.about .div-101{
+	margin-left: -160px;
+}

@@ -1,0 +1,122 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-family: script;
+
+}
+
+.navbar{
+	width: 100%;
+	position: fixed;
+	background :;
+	padding: 5px 0px;
+
+}
+.navbar .max-width{
+
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	align-content: auto;
+}
+.logo a{
+	color: #fff;
+	font-size: 40px;
+	font-weight: 500;
+}
+.logo img{
+	background-color: none;
+} 
+.logo span{
+	color: black;
+}
+.menu li{
+	display: inline-block;
+}
+.menu{
+	padding-top: 10px;
+}
+.menu li a{
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 1s;
+}
+
+.menu li a:hover{
+	color:black;
+	}
+	.home{
+		
+	}
+
+.home .div-home .div-home1{
+text-align: center;
+	color : black;
+
+}
+.home .div-la1{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 30px; 
+}
+.home .div-la2{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 30px; 
+}
+.home .div-la3{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 30px; 
+}
+.home .div-la4{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 30px; 
+
+}
+.before{
+	color: black;
+background-color: #D8D8D8;
+}
+.before .div-before1{
+margin-left: 250px;
+margin-top: 45px;
+}
+.before .div-before2{
+margin-left: 250px;
+
+}
+.foot{
+	background-color: #D8D8D8; 
+}
+.foot .div-foot{
+	text-align: center;
+}
+.foot .div-foot1{
+margin-left: 350px;
+}
+.foot .div-foot2{
+margin-left: 50px;
+}
+.foot .div-foot3{
+margin-left: 50px;
+}
+.foot .div-foot4{
+margin-left: 50px;
+}
+.foot .div-foot5{
+margin-left: 50px;
+}
+.foot .div-foot6{
+	text-align: center;
+	background-color: #848484;
+	height: 20px;
+	padding: auto;
+
+	}
